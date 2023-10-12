@@ -2,7 +2,7 @@
   
 <h3 align="center">Crafting code, blending logic, infusing fun, and solving problems—my journey is a symphony of creation. I don't just write code; I sculpt tools that transform challenges into opportunities.</h3>  
   
-[![Dwroten profile banner](https://github.com/dw471/dw471/blob/main/header.jpg)](https://dwroten.com)  
+[![Dwroten profile banner](https://github.com/dw471/dw471/blob/master/header.jpg)](https://dwroten.com)  
   
    
   
