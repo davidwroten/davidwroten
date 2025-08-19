@@ -1,4 +1,4 @@
-<h2 align="center">👋 Welcome to My GitHub!</h2>  
+<h2 align="center">👋🏻 Welcome to My GitHub!</h2>  
 <h3 align="center">
 I'm a developer passionate about crafting clean, efficient code and solving complex problems. I utilize a range of technologies for cloud infrastructure, virtualization, networking, and full-stack development.
 </h3>
@@ -61,7 +61,7 @@ I'm a developer passionate about crafting clean, efficient code and solving comp
 [![Proxmox](https://img.shields.io/badge/Proxmox-%23E41E26?style=for-the-badge&logo=proxmox&logoColor=white)](#)
 [![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-%230073C0?style=for-the-badge&logo=vmware&logoColor=white)](#)
 [![Hyper-V](https://img.shields.io/badge/Hyper-V-%23007ACC?style=for-the-badge&logo=windows&logoColor=white)](#)
-[![Sophos](https://img.shields.io/badge/Sophos-%23005BAB?style=for-the-badge&logo=sophos&logoColor=%23FF6A00)](#)
+[![Sophos](https://img.shields.io/badge/Sophos-%23005BAB?style=for-the-badge&logo=sophosxg&logoColor=%23FF6A00)](#)
 [![Juniper](https://img.shields.io/badge/Juniper-%2384B135?style=for-the-badge&logo=juniper-networks&logoColor=white)](#)
 [![pfSense](https://img.shields.io/badge/pfSense-%23212121?style=for-the-badge&logo=pfsense&logoColor=white)](#)
 
